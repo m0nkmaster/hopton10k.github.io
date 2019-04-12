@@ -3,69 +3,69 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hopton10k.run/blog/2015/06/24/planning/</loc>
+    <loc>https://hopton10k.run/blog/2015/06/24/planning/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/blog/2015/06/24/become-a-volunteer/</loc>
+    <loc>https://hopton10k.run/blog/2015/06/24/become-a-volunteer/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/blog/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/categories/help/</loc>
+    <loc>https://hopton10k.run/blog/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/</loc>
+    <loc>https://hopton10k.run/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/categories/help/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/categories/starting/</loc>
+    <loc>https://hopton10k.run/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/course/</loc>
-  </url>
-  
-  <url>
-    <loc>http://hopton10k.run/tags/theme/</loc>
+    <loc>https://hopton10k.run/categories/starting/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hopton10k.run/tags/volunteerhelpmarshal/</loc>
+    <loc>https://hopton10k.run/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/course/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/tags/theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/tags/volunteerhelpmarshal/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>

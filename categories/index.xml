@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hopton 10k road and trail race, Yorkshire</title>
-    <link>http://hopton10k.run/categories/</link>
+    <link>https://hopton10k.run/categories/</link>
     <description>Recent content in Categories on Hopton 10k road and trail race, Yorkshire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     
-	<atom:link href="http://hopton10k.run/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hopton10k.run/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Help</title>
-      <link>http://hopton10k.run/categories/help/</link>
+      <link>https://hopton10k.run/categories/help/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://hopton10k.run/categories/help/</guid>
+      <guid>https://hopton10k.run/categories/help/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>http://hopton10k.run/categories/starting/</link>
+      <link>https://hopton10k.run/categories/starting/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>http://hopton10k.run/categories/starting/</guid>
+      <guid>https://hopton10k.run/categories/starting/</guid>
       <description></description>
     </item>
     
