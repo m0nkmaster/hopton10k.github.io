@@ -19,10 +19,11 @@ $(function () {
   animations()
   counters()
   demo()
-  contactForm()
+  contactFormAjax()
 })
 
 // Ajax contact
+
 // function contactForm () {
 //   var form = $('.contact-form')
 //   form.submit(function () {

@@ -1,3 +1,13 @@
+/* 
+Hopton Colours
+
+Darker Green: #393F1E
+Dark Green: #697821
+Light Green: #A1B91D
+*/
+
+
+
 @font-face {
     font-family: Gagalin;
     src: url("/images/fonts/gagalin-regular.otf");
@@ -318,12 +328,12 @@ ul.list-style-none {
   border-top: solid 5px transparent;
 }
 .navbar ul.nav > li > a:hover {
-  border-top: solid 5px #6aae7a;
+  border-top: solid 5px #fff;
 }
 .navbar ul.nav > li.active > a,
 .navbar ul.nav > li.open > a {
   text-decoration: none !important;
-  border-top: solid 5px #3f734b;
+  border-top: solid 5px #fff;
 }
 @media (max-width: 768px) {
   .navbar ul.nav > li.active > a,
@@ -335,18 +345,18 @@ ul.list-style-none {
   }
 }
 .navbar.navbar-light ul.nav > li.active > a {
-  border-top: solid 5px #3f734b;
+  border-top: solid 5px #fff;
   background: #fff !important;
   color: #555555 !important;
 }
 .navbar.navbar-light ul.nav > li.active > a:hover {
-  border-top: solid 5px #3f734b;
+  border-top: solid 5px #fff;
 }
 .navbar.navbar-light ul.nav > li > a:hover,
 .navbar.navbar-light ul.nav > li.open > a:hover,
 .navbar.navbar-light ul.nav > li > a:focus,
 .navbar.navbar-light ul.nav > li.open > a:focus {
-  border-top: solid 5px #6aae7a;
+  border-top: solid 5px #fff;
   background: #fff !important;
   color: #555555 !important;
 }
@@ -457,12 +467,12 @@ ul.list-style-none {
 .navbar .btn-default:focus,
 .navbar .btn-default.navbar-toggle:focus {
   background-color: #fff;
-  border-color: #6aae7a;
-  color: #6aae7a;
+  border-color: #AFCA20;
+  color: #AFCA20;
 }
 .navbar #search {
   clear: both;
-  border-top: solid 1px #6aae7a;
+  border-top: solid 1px #AFCA20;
   text-align: right;
 }
 .navbar #search form {
@@ -1742,7 +1752,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  color: #333333;
+  color: #393F1E;
   text-transform: uppercase;
   font-size: 30px;
   font-weight: 700;
@@ -3096,7 +3106,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #6aae7a;
+  background-color: #AFCA20;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -3109,7 +3119,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #6aae7a;
+  background-color: #AFCA20;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888888;
@@ -3380,7 +3390,7 @@ h6,
   font-family: "Gagalin", Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
-  color: #333333;
+  color: #697821;
 }
 h1,
 .h1,
