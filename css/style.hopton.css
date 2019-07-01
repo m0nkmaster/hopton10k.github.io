@@ -1786,6 +1786,13 @@ fieldset[disabled] .btn-template-primary.active {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.bar.background-image-fixed-3 {
+    background: url('/images/covers/field.jpg') center top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .bar.color-white h1,
 .bar.color-white h2,
 .bar.color-white h3,
