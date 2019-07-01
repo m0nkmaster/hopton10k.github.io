@@ -1191,10 +1191,11 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h1,
 .home-carousel h2,
 .home-carousel h3,
-.home-carousel p,
 .home-carousel ul {
-  /* color: #697822; */
   color: #B0CB1F;
+}
+.home-carousel p {
+  color: #697822;
 }
 .home-carousel h1 {
   font-weight: 700;
