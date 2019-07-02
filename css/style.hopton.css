@@ -800,6 +800,13 @@ fieldset[disabled] .btn-template-primary.active {
     right: 10%;
   }
 }
+
+@media (min-width: 991px) {
+    .img-responsive {
+        max-width: 360px !important;
+    }
+}
+
 #intro .container,
 #intro .row {
   height: 100%;
@@ -1172,8 +1179,8 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: #fff;
-  opacity: 0.9;
-  filter: alpha(opacity=100);
+  opacity: 0.85;
+  filter: alpha(opacity=85);
 }
 .home-carousel .owl-carousel {
   padding-top: 60px;
@@ -1202,16 +1209,17 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel h2,
 .home-carousel h3,
 .home-carousel ul {
-  color: #B0CB1F;
+  color: #AFCA20;
 }
 .home-carousel p {
-  color: #697822;
+  color: #393F1E;
 }
 .home-carousel h1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 46px;
+  font-weight: 400;
+  /* text-transform: uppercase; */
+  font-size: 28px;
   letter-spacing: 0.08em;
+  /* text-shadow: 1px 1px #829335; */
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
@@ -1219,7 +1227,7 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .home-carousel h2 {
-  font-weight: 700;
+  font-weight: 350;
   text-transform: uppercase;
   font-size: 40px;
   letter-spacing: 0.08em;
@@ -1227,9 +1235,9 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 350;
   padding: 0;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
@@ -2626,11 +2634,12 @@ fieldset[disabled] .btn-template-primary.active {
   color: #AFCA20;
 }
 #copyright {
-  background: #333;
+  background: #393F1E;
   color: #ccc;
-  padding: 50px 0;
+  padding: 20px 0;
   font-size: 12px;
   line-height: 28px;
+  border-top: 2px solid white;
 }
 #copyright p {
   margin: 0;
@@ -3387,7 +3396,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Gagalin", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", "Gagalin", Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #697821;
