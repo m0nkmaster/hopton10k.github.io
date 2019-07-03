@@ -1761,11 +1761,12 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #heading-breadcrumbs h1 {
-  color: #393F1E;
-  text-transform: uppercase;
+  color: #697821;
+  font-family: "Gagalin";
+  /* text-transform: uppercase; */
   font-size: 30px;
   font-weight: 500;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
 }
 @media (max-width: 991px) {
   #heading-breadcrumbs h1 {
