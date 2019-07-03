@@ -1212,18 +1212,17 @@ fieldset[disabled] .btn-template-primary.active {
   color: #AFCA20;
 }
 .home-carousel p {
-  color: #393F1E;
+  color: #697821;
+  margin-bottom: 30px;
 }
 .home-carousel h1 {
-  font-weight: 400;
-  /* text-transform: uppercase; */
+  font-weight: 390;
   font-size: 28px;
-  letter-spacing: 0.08em;
-  /* text-shadow: 1px 1px #829335; */
+  letter-spacing: 0.1em;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 .home-carousel h2 {
@@ -1235,7 +1234,7 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul,
 .home-carousel p {
   font-size: 18px;
-  font-weight: 350;
+  font-weight: 380;
   padding: 0;
   /* text-transform: uppercase; */
   letter-spacing: 0.10em;
