@@ -2637,11 +2637,11 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #copyright {
   background: #829335;
-  color: #ccc;
-  padding: 20px 0;
+  color: #ffffff;
+  padding: 10px 0;
   font-size: 12px;
   line-height: 28px;
-  border-top: 10px solid white;
+  border-top: 3px solid white;
 }
 #copyright p {
   margin: 0;
