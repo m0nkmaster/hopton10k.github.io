@@ -3398,8 +3398,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", "Gagalin", Helvetica, Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Gagalin", "Roboto", Helvetica, Arial, sans-serif;
+  font-weight: 100;
   line-height: 1.1;
   color: #AFCA20;
 }
