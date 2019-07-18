@@ -251,8 +251,8 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
-  color: #eeeeee;
+  background: #393F1E;
+  color: #A1B91D;
   padding: 10px 0;
 }
 #top p {
@@ -264,7 +264,7 @@ ul.list-style-none {
   text-align: right;
 }
 #top .social a {
-  color: #999999;
+  color: #A1B91D;
   display: inline-block;
   width: 24px;
   height: 24px;
