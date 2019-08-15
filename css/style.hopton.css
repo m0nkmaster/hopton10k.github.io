@@ -801,11 +801,11 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 
-@media (min-width: 991px) {
+/* @media (min-width: 991px) {
     .img-responsive {
         max-width: 360px !important;
     }
-}
+} */
 
 #intro .container,
 #intro .row {
