@@ -136,6 +136,10 @@
   </url>
   
   <url>
+    <loc>https://hopton10k.run/results/</loc>
+  </url>
+  
+  <url>
     <loc>https://hopton10k.run/tags/route/</loc>
     <lastmod>2019-07-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
