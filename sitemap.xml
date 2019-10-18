@@ -46,6 +46,10 @@
   </url>
   
   <url>
+    <loc>https://hopton10k.run/results/</loc>
+  </url>
+  
+  <url>
     <loc>https://hopton10k.run/m1/</loc>
   </url>
   
@@ -133,10 +137,6 @@
   
   <url>
     <loc>https://hopton10k.run/raceday/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hopton10k.run/results/</loc>
   </url>
   
   <url>
