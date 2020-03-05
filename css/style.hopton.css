@@ -3591,28 +3591,3 @@ a.list-group-item.active > .badge,
   left: 15px;
   right: 15px;
 }
-
-.col-md-12 table {
-    border: 1px solid #829335;
-    width: 100%;
-    text-align: left;
-  }
-  .col-md-12  table td, .col-md-12 table th {
-    border: 1px solid #829335;
-    padding: 2px 4px;
-  }
-  .col-md-12 table tr:nth-child(even) {
-    background: #F5F6F2;
-  }
-  .col-md-12 table thead {
-    background: #AFCA20;
-  }
-  .col-md-12 table thead th {
-    /* font-size: 12px; */
-    font-weight: bold;
-    border-left: 1px solid #829335;
-  }
-  .col-md-12 table thead th:first-child {
-    border-left: none;
-  }
-  
