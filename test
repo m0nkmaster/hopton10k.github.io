@@ -1,7 +1,7 @@
 
 
 
-compasspartnership.com.	3600	IN	SOA	compasspartnership.com. root.compasspartnership.com. 2036224315 7200 3600 86400 3600
+compasspartnership.com.	3600	IN	SOA	compasspartnership.com. root.compasspartnership.com. 2036224319 7200 3600 86400 3600
 
 ;; A Records
 cdn.compasspartnership.com.	1	IN	A	46.101.26.120
