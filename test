@@ -1,0 +1,36 @@
+
+
+
+compasspartnership.com.	3600	IN	SOA	compasspartnership.com. root.compasspartnership.com. 2036224319 7200 3600 86400 3600
+
+;; A Records
+cdn.compasspartnership.com.	1	IN	A	46.101.26.120
+*.compasspartnership.com.	1	IN	A	46.101.26.120
+compasspartnership.com.	1	IN	A	46.101.26.120
+www.compasspartnership.com.	1	IN	A	46.101.26.120
+
+;; CNAME Records
+_3a5392127e52301ab635580d7db294bb.compasspartnership.com.	120	IN	CNAME	d38dfe6de0456255b1f4637bc59aa198.022c64d234e8b409e006fe93266b0ae1.qxxz2lutxv5szm5555m9.comodoca.com.
+autodiscover.compasspartnership.com.	1	IN	CNAME	autodiscover.outlook.com.
+enterpriseenrollment.compasspartnership.com.	1	IN	CNAME	enterpriseenrollment.manage.microsoft.com.
+enterpriseregistration.compasspartnership.com.	1	IN	CNAME	enterpriseregistration.windows.net.
+k2._domainkey.compasspartnership.com.	1	IN	CNAME	dkim2.mcsv.net.
+k3._domainkey.compasspartnership.com.	1	IN	CNAME	dkim3.mcsv.net.
+lyncdiscover.compasspartnership.com.	1	IN	CNAME	webdir.online.lync.com.
+msoid.compasspartnership.com.	1	IN	CNAME	clientconfig.microsoftonline-p.net.
+sip.compasspartnership.com.	1	IN	CNAME	sipdir.online.lync.com.
+
+;; MX Records
+compasspartnership.com.	1	IN	MX	1 compasspartnership-com.mail.protection.outlook.com.
+
+;; PTR Records
+46.101.26.120.compasspartnership.com.	1	IN	PTR	compasspartnership.com.
+
+;; SRV Records
+_sipfederationtls._tcp.compasspartnership.com.	1	IN	SRV	100 1 5061 sipfed.online.lync.com.
+_sip._tls.compasspartnership.com.	1	IN	SRV	100 1 443 sipdir.online.lync.com.
+
+;; TXT Records
+compasspartnership.com.	1	IN	TXT	"v=spf1 include:spf.protection.outlook.com include:servers.mcsv.net ~all"
+compasspartnership.com.	1	IN	TXT	"google-site-verification=-qNMhpV64qZ8woh54ZEg7APuvttwaybTAsE_aylGJik"
+compasspartnership.com.	1	IN	TXT	"google-site-verification=35Wo2yNASwZ7PG2-e8VLz1xaWKXAKrU1S_42xspKTJc"
