@@ -281,7 +281,6 @@
 <h3 id="google-maps-link">Google Maps Link</h3>
 <p>This is a page I&rsquo;m messing with.</p>
 <p><a href="https://www.google.com/maps/search/53.66763,+-1.66457">https://www.google.com/maps/search/53.66763,+-1.66457</a></p>
-<p>{{ partial &ldquo;routemap.html&rdquo; . }}</p>
 
 
                 
@@ -337,17 +336,24 @@
 </div>
 
 
-  
-      <div class="hidden">
-        <input id="gmap-lat" value="53.672209" />
-        <input id="gmap-lng" value="-1.699673" />
-        <input id="gmap-marker" value="https://hopton10k.run/img/marker.png" />
-        
-          <input id="gmap-dir" value="53.672209,-1.699673" />
-        
-      </div>
-      <div id="map" />
-  
+<a name="route" />
+<section class="bar background-white">
+    <div class="container">
+		<div class="col-md-12">
+            <div class="row" style="text-align: center">
+                    <div class="heading text-center">
+                        <h2>The Route</h2>
+                    </div>
+                    <a href="https://www.strava.com/routes/19111181" onclick="ga('send','event', 'in-page', 'routemap', 'image', 1);">
+                        <img src="/images/map-v6.jpg" alt="The Hopton 10k running route" width="100%" style="max-width: 600px" />
+                    </a>
+                    <h4>More detailed maps are available on: <a href="https://www.strava.com/routes/19111181" onclick="ga('send','event', 'in-page', 'routemap', 'strava', 1);">Strava</a> | <a href="https://www.google.com/maps/d/viewer?mid=18nX-YnQGysQI_1L8-GL1aDeaNGweVj99" onclick="ga('send','event', 'in-page', 'routemap', 'googlemap', 1);">Google Maps</a></h4>
+                </div>
+			</div>
+		</div>
+
+    </div>
+</section>
 
 
 
