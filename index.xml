@@ -81,162 +81,160 @@ How do I know my entry has been received?</description>
     </item>
     
     <item>
-      <title>Marshal Point </title>
-      <link>https://hopton10k.run/m5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hopton10k.run/m5/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66671,+-1.68290</description>
-    </item>
-    
-    <item>
-      <title>Marshal Point 1</title>
+      <title>Marshal Point 1 - Chadwick Lane</title>
       <link>https://hopton10k.run/m1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m1/</guid>
-      <description>Chadwick Lane From school runners head down Woodend Lane turn left and run through the junction towards Calder Road. Warn cars on Newgate and all other roads. Once on Calder Road runners should be guided to the pavement on their left.
-Google Maps Link https://www.google.com/maps/search/{{ .Params.latitude }},{{ .Params.longitude }}</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 10</title>
+      <title>Marshal Point 10 - Sands Lane, Left to Lady</title>
       <link>https://hopton10k.run/m10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m10/</guid>
-      <description>Google Maps Link This is a page I&amp;rsquo;m messing with&amp;hellip;.
-https://www.google.com/maps/search/53.66763,+-1.66457</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 11</title>
+      <title>Marshal Point 11 - Lady Woods bottom</title>
       <link>https://hopton10k.run/m11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m11/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.67242,+-1.66362</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 12</title>
+      <title>Marshal Point 12 - Lady Woods go straight</title>
       <link>https://hopton10k.run/m12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m12/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.67123,+-1.66328</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 13</title>
+      <title>Marshal Point 13 - Exit via stile</title>
       <link>https://hopton10k.run/m13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m13/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66934,+-1.6617</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 14</title>
+      <title>Marshal Point 14 - Ex-Paradise Farm</title>
       <link>https://hopton10k.run/m14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m14/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66830,+-1.66005</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 15</title>
+      <title>Marshal Point 15 - Ouzelwell Water</title>
       <link>https://hopton10k.run/m15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m15/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.67008,+-1.64741</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 16</title>
+      <title>Marshal Point 16 - Ouzelwell Farm</title>
       <link>https://hopton10k.run/m16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m16/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66603,+-1.65316</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 17</title>
+      <title>Marshal Point 17 - Ouzelwell Top</title>
       <link>https://hopton10k.run/m17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m17/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66431,+-1.65644</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 18</title>
+      <title>Marshal Point 18 - The Bog</title>
       <link>https://hopton10k.run/m18/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m18/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66327,+-1.66083</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 19</title>
+      <title>Marshal Point 19 - Don&#39;t go down there!</title>
       <link>https://hopton10k.run/m19/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m19/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66035,+-1.67159</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 2</title>
+      <title>Marshal Point 2 - Flowerpot junction</title>
       <link>https://hopton10k.run/m2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m2/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66810,+-1.69363</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 20</title>
+      <title>Marshal Point 20 - Yes, DO go down there</title>
       <link>https://hopton10k.run/m20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m20/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.6624,+-1.67482</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 3</title>
+      <title>Marshal Point 3 - Granny Lane</title>
       <link>https://hopton10k.run/m3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m3/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66821,+-1.68955</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 4</title>
+      <title>Marshal Point 4 - Hagg Lane Junction</title>
       <link>https://hopton10k.run/m4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m4/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66826,+-1.68520</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 6</title>
+      <title>Marshal Point 5 - Hagg Lane / Boathouse</title>
+      <link>https://hopton10k.run/m5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hopton10k.run/m5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marshal Point 6 - Hagg Woods Crossroads</title>
       <link>https://hopton10k.run/m6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m6/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66669,+-1.67850</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Marshal Point 7</title>
+      <title>Marshal Point 7 - Golf course Bottom</title>
       <link>https://hopton10k.run/m7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -245,21 +243,21 @@ https://www.google.com/maps/search/53.66763,+-1.66457</description>
     </item>
     
     <item>
-      <title>Marshal Point 8</title>
+      <title>Marshal Point 8 - Golf course Top</title>
       <link>https://hopton10k.run/m8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m8/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66513,+-1.67007</description>
+      <description>https://goo.gl/maps/4YtAR3n756Ga5p6DA</description>
     </item>
     
     <item>
-      <title>Marshal Point 9</title>
+      <title>Marshal Point 9 - Sands Lane</title>
       <link>https://hopton10k.run/m9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m9/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.66798,+-1.66767</description>
+      <description></description>
     </item>
     
     <item>
