@@ -105,7 +105,8 @@ How do I know my entry has been received?</description>
       
       <guid>https://hopton10k.run/m10/</guid>
       <description>Google Maps Link This is a page I&amp;rsquo;m messing with.
-https://www.google.com/maps/search/53.66763,+-1.66457</description>
+https://www.google.com/maps/search/53.66763,+-1.66457
+{{ partial &amp;ldquo;routemap.html&amp;rdquo; . }}</description>
     </item>
     
     <item>
