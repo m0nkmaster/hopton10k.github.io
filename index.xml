@@ -95,7 +95,8 @@ How do I know my entry has been received?</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hopton10k.run/m1/</guid>
-      <description>Google Maps Link https://www.google.com/maps/search/53.67192,+-1.69824</description>
+      <description>Chadwick Lane From school runners head down Woodend Lane turn left and run through the junction towards Calder Road. Warn cars on Newgate and all other roads. Once on Calder Road runners should be guided to the pavement on their left.
+Google Maps Link https://www.google.com/maps/search/{{ .Params.latitude }},{{ .Params.longitude }}</description>
     </item>
     
     <item>
