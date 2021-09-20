@@ -64,10 +64,6 @@
   </url>
   
   <url>
-    <loc>https://hopton10k.run/marshalling/</loc>
-  </url>
-  
-  <url>
     <loc>https://hopton10k.run/results/</loc>
   </url>
   
@@ -149,6 +145,10 @@
   
   <url>
     <loc>https://hopton10k.run/m9/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/marshalling/</loc>
   </url>
   
   <url>
