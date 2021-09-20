@@ -148,15 +148,15 @@
   </url>
   
   <url>
-    <loc>https://hopton10k.run/marshalling/</loc>
-  </url>
-  
-  <url>
     <loc>https://hopton10k.run/raceday/</loc>
   </url>
   
   <url>
     <loc>https://hopton10k.run/sponsorship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hopton10k.run/volunteers/</loc>
   </url>
   
 </urlset>

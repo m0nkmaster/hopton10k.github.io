@@ -2888,7 +2888,7 @@ fieldset[disabled] .btn-template-primary.active {
 .navbar-fixed-top .navbar-collapse,
 .navbar-affixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
-  max-height: 340px;
+  max-height: 390px;
 }
 @media (max-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
