@@ -5,10 +5,6 @@
     <link>https://hopton10k.run/categories/</link>
     <description>Recent content in Categories on Hopton 10k road and trail running race, Mirfield, West Yorkshire</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    
-	<atom:link href="https://hopton10k.run/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-gb</language><atom:link href="https://hopton10k.run/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
