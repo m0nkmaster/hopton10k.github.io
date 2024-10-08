@@ -4,35 +4,30 @@
     <title>Tags on Hopton 10k road and trail running race, Mirfield, West Yorkshire</title>
     <link>https://hopton10k.run/tags/</link>
     <description>Recent content in Tags on Hopton 10k road and trail running race, Mirfield, West Yorkshire</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hopton10k.run/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hopton10k.run/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>planning</title>
+      <title>Planning</title>
       <link>https://hopton10k.run/tags/planning/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://hopton10k.run/tags/planning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>route</title>
+      <title>Route</title>
       <link>https://hopton10k.run/tags/route/</link>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://hopton10k.run/tags/route/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>volunteering</title>
+      <title>Volunteering</title>
       <link>https://hopton10k.run/tags/volunteering/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://hopton10k.run/tags/volunteering/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
