@@ -5,8 +5,8 @@
 &lt;h2 id="before-you-contact-us">Before You Contact Us&lt;/h2>
 &lt;p>You might find your answer in our:&lt;/p>
 &lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://hopton10k.run/faq/">FAQ page&lt;/a>&lt;/strong> — questions about entering, eligibility, and what&amp;rsquo;s included&lt;/li>
-&lt;li>&lt;strong>&lt;a href="https://hopton10k.run/raceday/">Race Day page&lt;/a>&lt;/strong> — parking, registration, route, and logistics&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://hopton10k.run/faq/">FAQ page&lt;/a>&lt;/strong> - questions about entering, eligibility, and what&amp;rsquo;s included&lt;/li>
+&lt;li>&lt;strong>&lt;a href="https://hopton10k.run/raceday/">Race Day page&lt;/a>&lt;/strong> - parking, registration, route, and logistics&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="how-to-reach-us">How to Reach Us&lt;/h2>
@@ -15,8 +15,8 @@
 &lt;p>We aim to respond within 48 hours. During race week, we may be a little slower!&lt;/p>
 &lt;h3 id="social-media">Social Media&lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="http://facebook.com/hopton10k">Facebook&lt;/a> — @hopton10k&lt;/li>
-&lt;li>&lt;a href="http://twitter.com/hopton10k">Twitter&lt;/a> — @hopton10k&lt;/li>
+&lt;li>&lt;a href="http://facebook.com/hopton10k">Facebook&lt;/a> - @hopton10k&lt;/li>
+&lt;li>&lt;a href="http://twitter.com/hopton10k">Twitter&lt;/a> - @hopton10k&lt;/li>
 &lt;/ul>
 &lt;hr>
 &lt;h2 id="common-enquiries">Common Enquiries&lt;/h2>
@@ -65,12 +65,44 @@
 &lt;h2 id="getting-there">Getting There&lt;/h2>
 &lt;h3 id="location">Location&lt;/h3>
 &lt;p>The race starts and finishes at &lt;strong>Hopton Primary School&lt;/strong>, Woodend Road, Mirfield, WF14 8PR.&lt;/p>
-&lt;p>&lt;strong>Important:&lt;/strong> Enter the school grounds through the &lt;strong>playground gate on Chadwick Lane&lt;/strong>. The main entrance and front gates will not be open.&lt;/p></description></item><item><title>Race Results</title><link>https://hopton10k.run/results/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/results/</guid><description>&lt;h1 id="hopton-10k-results">Hopton 10k Results&lt;/h1>
+&lt;p>&lt;strong>Important:&lt;/strong> Enter the school grounds through the &lt;strong>playground gate on Chadwick Lane&lt;/strong>. The main reception and front gates will not be open.&lt;/p></description></item><item><title>Race Photos</title><link>https://hopton10k.run/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/photos/</guid><description>&lt;style>
+.photo-thumb {
+ width: 100%;
+ height: 200px;
+ object-fit: cover;
+ object-position: 50% 25%;
+ border-radius: 4px;
+}
+.photo-thumb.pos-third {
+ object-position: 50% 33%;
+}
+.photo-thumb.pos-top {
+ object-position: top;
+}
+@media (max-width: 767px) {
+ .photo-thumb.pos-third {
+ object-position: top;
+ }
+}
+&lt;/style>
+&lt;h1 id="hopton-10k-photos">Hopton 10k Photos&lt;/h1>
+&lt;p>Relive the action from past races! Browse our photo galleries from each year of the Hopton 10k.&lt;/p>
+&lt;hr>
+&lt;h2 id="2025">2025&lt;/h2>
+&lt;div class="row" style="margin-bottom: 30px;">
+&lt;div class="col-md-4" style="margin-bottom: 20px;">
+&lt;img src="https://hopton10k.run/images/photos/2025.png" alt="Hopton 10k 2025" class="photo-thumb pos-top">
+&lt;/div>
+&lt;div class="col-md-8">
+&lt;p>Photos from the 2025 race.&lt;/p>
+&lt;p>
+&lt;a href="https://photos.app.goo.gl/H5iyxcLJxiDTxgMJ9" class="btn btn-template-primary" target="_blank">&lt;i class="fa fa-camera">&lt;/i> View Album&lt;/a>
+&lt;/p></description></item><item><title>Race Results</title><link>https://hopton10k.run/results/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/results/</guid><description>&lt;h1 id="hopton-10k-results">Hopton 10k Results&lt;/h1>
 &lt;p>Since our first race in 2019, the Hopton 10k has welcomed hundreds of runners to tackle our challenging course. Below you&amp;rsquo;ll find the winners from each year along with links to the full results.&lt;/p>
 &lt;p>&lt;strong>Looking for your time?&lt;/strong> Full results are published on &lt;a href="https://racebest.com/results/">RaceBest&lt;/a> shortly after each race finishes.&lt;/p>
 &lt;hr>
 &lt;h2 id="2025">2025&lt;/h2>
-&lt;div class="row">
+ &lt;div class="row">
 &lt;div class="col-md-6">
 &lt;h4>&lt;i class="fa fa-male">&lt;/i> Male Winner&lt;/h4>
 &lt;p>&lt;strong>Adam Thompson&lt;/strong> (Stockport Harriers &amp; AC)&lt;br>&lt;span class="text-muted">40:38&lt;/span>&lt;/p>
