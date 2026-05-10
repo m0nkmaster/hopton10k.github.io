@@ -1190,6 +1190,21 @@ p {
     text-decoration: underline;
 }
 
+.footer-legal {
+    font-size: 0.8rem;
+    margin-top: var(--space-xs);
+    margin-bottom: 0;
+    opacity: 0.7;
+}
+
+.footer-legal a {
+    color: var(--color-amber);
+}
+
+.footer-legal a:hover {
+    text-decoration: underline;
+}
+
 /* ----------------------------------------
    Single Page Layout
    ---------------------------------------- */
