@@ -1,248 +1,180 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Hopton 10k - A multi-terrain road and trail race in Hopton, West Yorkshire on Hopton 10k road and trail running race, Mirfield, West Yorkshire</title>
-		<link>https://hopton10k.run/</link>
-		<description>Recent content in Hopton 10k - A multi-terrain road and trail race in Hopton, West Yorkshire on Hopton 10k road and trail running race, Mirfield, West Yorkshire</description>
-		<generator>Hugo</generator>
-		<language>en-gb</language>
-		
-		
-		
-		
-			<lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="https://hopton10k.run/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Marshal Point 1 - Chadwick Lane</title>
-				<link>https://hopton10k.run/m1/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m1/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 2 - Flowerpot junction</title>
-				<link>https://hopton10k.run/m2/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m2/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 3 - Granny Lane</title>
-				<link>https://hopton10k.run/m3/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m3/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 4 - Hagg Lane Junction</title>
-				<link>https://hopton10k.run/m4/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m4/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 5 - Hagg Lane / Boathouse</title>
-				<link>https://hopton10k.run/m5/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m5/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 6 - Hagg Woods Crossroads</title>
-				<link>https://hopton10k.run/m6/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m6/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 7 - Golf course Bottom</title>
-				<link>https://hopton10k.run/m7/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m7/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 8 - Golf course Top</title>
-				<link>https://hopton10k.run/m8/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m8/</guid>
-				<description>&lt;p&gt;&lt;a href=&#34;https://goo.gl/maps/4YtAR3n756Ga5p6DA&#34;&gt;https://goo.gl/maps/4YtAR3n756Ga5p6DA&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Marshal Point 9 - Sands Lane</title>
-				<link>https://hopton10k.run/m9/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m9/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 10 - Sands Lane, Left to Lady</title>
-				<link>https://hopton10k.run/m10/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m10/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 11 - Lady Woods bottom</title>
-				<link>https://hopton10k.run/m11/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m11/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 12 - Lady Woods go straight</title>
-				<link>https://hopton10k.run/m12/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m12/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 13 - Exit via stile</title>
-				<link>https://hopton10k.run/m13/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m13/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 14 - Ex-Paradise Farm</title>
-				<link>https://hopton10k.run/m14/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m14/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 15 - Ouzelwell Water</title>
-				<link>https://hopton10k.run/m15/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m15/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 16 - Ouzelwell Farm</title>
-				<link>https://hopton10k.run/m16/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m16/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 17 - Ouzelwell Top</title>
-				<link>https://hopton10k.run/m17/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m17/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 18 - The Bog</title>
-				<link>https://hopton10k.run/m18/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m18/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 19 - Don&#39;t go down there!</title>
-				<link>https://hopton10k.run/m19/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m19/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Marshal Point 20 - Yes, DO go down there</title>
-				<link>https://hopton10k.run/m20/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/m20/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Planning</title>
-				<link>https://hopton10k.run/blog/2019/07/08/planning/</link>
-				<pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/blog/2019/07/08/planning/</guid>
-				<description>Plans are coming along well, all systems go.</description>
-			</item>
-			<item>
-				<title>Walking the route</title>
-				<link>https://hopton10k.run/blog/2019/07/07/recce/</link>
-				<pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/blog/2019/07/07/recce/</guid>
-				<description>I carried out a recce of the route with the family today. It showed me that this route is both great fun, but challenging in places&amp;hellip;</description>
-			</item>
-			<item>
-				<title>Volunteers needed</title>
-				<link>https://hopton10k.run/blog/2019/06/24/become-a-volunteer/</link>
-				<pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/blog/2019/06/24/become-a-volunteer/</guid>
-				<description>&lt;h2 id=&#34;become-a-volunteer&#34;&gt;Become a volunteer&lt;/h2&gt;&#xA;&lt;p&gt;Love getting up early?&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Contact Us</title>
-				<link>https://hopton10k.run/contact/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/contact/</guid>
-				<description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h1&gt;&#xA;&lt;p&gt;Have a question about the Hopton 10k? We&amp;rsquo;d love to hear from you.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;before-you-contact-us&#34;&gt;Before You Contact Us&lt;/h2&gt;&#xA;&lt;p&gt;You might find your answer in our:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://hopton10k.run/faq/&#34;&gt;FAQ page&lt;/a&gt;&lt;/strong&gt; - questions about entering, eligibility, and what&amp;rsquo;s included&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://hopton10k.run/raceday/&#34;&gt;Race Day page&lt;/a&gt;&lt;/strong&gt; - parking, registration, route, and logistics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;how-to-reach-us&#34;&gt;How to Reach Us&lt;/h2&gt;&#xA;&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We aim to respond within 48 hours. During race week, we may be a little slower!&lt;/p&gt;&#xA;&lt;h3 id=&#34;social-media&#34;&gt;Social Media&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://facebook.com/hopton10k&#34;&gt;Facebook&lt;/a&gt; - @hopton10k&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://twitter.com/hopton10k&#34;&gt;Twitter&lt;/a&gt; - @hopton10k&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;common-enquiries&#34;&gt;Common Enquiries&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Entry transfers or refunds:&lt;/strong&gt; Contact us at least 24 hours before race day and we&amp;rsquo;ll do our best to help.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Donate</title>
-				<link>https://hopton10k.run/donate/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/donate/</guid>
-				<description>&lt;script&gt;&#xA;    window.location = &#39;https://www.justgiving.com/crowdfunding/hopton10k&#39;;&#xA;&lt;/script&gt;&#xA;&lt;h3 id=&#34;make-a-donation&#34;&gt;Make a donation&lt;/h3&gt;&#xA;&lt;p&gt;To support our school and all the parents and teachers who are taking part in the Hopton 10k, please visit our &lt;a href=&#34;https://www.justgiving.com/crowdfunding/hopton10k&#34;&gt;Just Giving page&lt;/a&gt; to donate. Your support is greatly appreciated.&lt;/p&gt;&#xA;&lt;h2 id=&#34;donate-now&#34;&gt;&lt;a href=&#34;https://www.justgiving.com/crowdfunding/hopton10k&#34;&gt;Donate Now&lt;/a&gt;&lt;/h2&gt;</description>
-			</item>
-			<item>
-				<title>Frequently Asked Questions</title>
-				<link>https://hopton10k.run/faq/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/faq/</guid>
-				<description>&lt;p&gt;Got questions about entering the Hopton 10k? Find answers below. For race day specific information (parking, check-in, route details), see our &lt;a href=&#34;https://hopton10k.run/raceday/&#34;&gt;Race Day&lt;/a&gt; page.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;about-the-race&#34;&gt;About the Race&lt;/h2&gt;&#xA;&lt;h3 id=&#34;when-is-the-race&#34;&gt;When is the race?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sunday 27th September 2026 at 10am&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Hopton 10k takes place on the first Sunday in October (or late September) every year.&lt;/p&gt;&#xA;&lt;h3 id=&#34;where-does-the-race-start&#34;&gt;Where does the race start?&lt;/h3&gt;&#xA;&lt;p&gt;The race starts and finishes at &lt;a href=&#34;https://www.google.com/maps/place/Hopton&amp;#43;Primary&amp;#43;School/@53.6721243,-1.6999666,15z&#34;&gt;Hopton Primary School&lt;/a&gt;, Woodend Road, Mirfield, WF14 8PR. From there, the route heads through Lower Hopton before entering the beautiful woodland trails.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Privacy Policy</title>
-				<link>https://hopton10k.run/privacy/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/privacy/</guid>
-				<description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: May 2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Hopton 10k is organised by a volunteer committee in Hopton, Mirfield, West Yorkshire. We are committed to protecting the privacy of everyone who enters the race, visits our website, or contacts us. This policy explains what information we collect, how we use it, and your rights.&lt;/p&gt;&#xA;&lt;p&gt;For any privacy-related queries, contact us at &lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-information-we-collect&#34;&gt;What Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;race-entries-via-racebest&#34;&gt;Race entries (via RaceBest)&lt;/h3&gt;&#xA;&lt;p&gt;When you enter the race through &lt;a href=&#34;https://racebest.com&#34;&gt;RaceBest&lt;/a&gt;, they collect personal information on our behalf, which may include:&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Race Day Information</title>
-				<link>https://hopton10k.run/raceday/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/raceday/</guid>
-				<description>&lt;p&gt;Everything you need to know to make your race day run smoothly. For general questions about entering, see our &lt;a href=&#34;https://hopton10k.run/faq/&#34;&gt;FAQ page&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-times&#34;&gt;Key Times&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Time&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Activity&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;8:45am&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Registration opens&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;9:50am&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Registration closes&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;10:00am&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Race starts&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;&lt;strong&gt;11:30am&lt;/strong&gt;&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Course cut-off (marshals pack up)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;getting-there&#34;&gt;Getting There&lt;/h2&gt;&#xA;&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;&#xA;&lt;p&gt;The race starts and finishes at &lt;strong&gt;Hopton Primary School&lt;/strong&gt;, Woodend Road, Mirfield, WF14 8PR.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Enter the school grounds through the &lt;strong&gt;playground gate on Chadwick Lane&lt;/strong&gt;. The main reception and front gates will not be open.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Race Photos</title>
-				<link>https://hopton10k.run/photos/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/photos/</guid>
-				<description>&lt;style&gt;&#xA;.photo-thumb {&#xA;    width: 100%;&#xA;    height: 200px;&#xA;    object-fit: cover;&#xA;    object-position: 50% 25%;&#xA;    border-radius: 4px;&#xA;}&#xA;.photo-thumb.pos-third {&#xA;    object-position: 50% 33%;&#xA;}&#xA;.photo-thumb.pos-top {&#xA;    object-position: top;&#xA;}&#xA;@media (max-width: 767px) {&#xA;    .photo-thumb.pos-third {&#xA;        object-position: top;&#xA;    }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;h1 id=&#34;hopton-10k-photos&#34;&gt;Hopton 10k Photos&lt;/h1&gt;&#xA;&lt;p&gt;Relive the action from past races! Browse our photo galleries from each year of the Hopton 10k.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;div class=&#34;row&#34; style=&#34;margin-bottom: 30px;&#34;&gt;&#xA;&lt;div class=&#34;col-md-4&#34; style=&#34;margin-bottom: 20px;&#34;&gt;&#xA;&lt;img src=&#34;https://hopton10k.run/images/photos/2025.png&#34; alt=&#34;Hopton 10k 2025&#34; class=&#34;photo-thumb pos-top&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col-md-8&#34;&gt;&#xA;&lt;p&gt;Photos from the 2025 race.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://photos.app.goo.gl/H5iyxcLJxiDTxgMJ9&#34; class=&#34;btn btn-template-primary&#34; target=&#34;_blank&#34;&gt;&lt;i class=&#34;fa fa-camera&#34;&gt;&lt;/i&gt; View Album&lt;/a&gt;&#xA;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Race Results</title>
-				<link>https://hopton10k.run/results/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/results/</guid>
-				<description>&lt;h1 id=&#34;hopton-10k-results&#34;&gt;Hopton 10k Results&lt;/h1&gt;&#xA;&lt;p&gt;Since our first race in 2019, the Hopton 10k has welcomed hundreds of runners to tackle our challenging course. Below you&amp;rsquo;ll find the winners from each year along with links to the full results.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Looking for your time?&lt;/strong&gt; Full results are published on &lt;a href=&#34;https://racebest.com/results/&#34;&gt;RaceBest&lt;/a&gt; shortly after each race finishes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA; &lt;div class=&#34;row&#34;&gt;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;&lt;h4&gt;&lt;i class=&#34;fa fa-male&#34;&gt;&lt;/i&gt; Male Winner&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Adam Thompson&lt;/strong&gt; (Stockport Harriers &amp; AC)&lt;br&gt;&lt;span class=&#34;text-muted&#34;&gt;40:38&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;col-md-6&#34;&gt;&#xA;&lt;h4&gt;&lt;i class=&#34;fa fa-female&#34;&gt;&lt;/i&gt; Female Winner&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ciara Ellis&lt;/strong&gt;&lt;br&gt;&lt;span class=&#34;text-muted&#34;&gt;47:14&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://racebest.com/results/yxy3t&#34; class=&#34;btn btn-template-main&#34;&gt;View full 2025 results&lt;/a&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Sponsorship Opportunities</title>
-				<link>https://hopton10k.run/sponsorship/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/sponsorship/</guid>
-				<description>&lt;h1 id=&#34;partner-with-the-hopton-10k&#34;&gt;Partner with the Hopton 10k&lt;/h1&gt;&#xA;&lt;p&gt;Looking for a unique opportunity to connect with hundreds of active, community-minded people in West Yorkshire? The Hopton 10k offers excellent visibility for local and national businesses alike.&lt;/p&gt;&#xA;&lt;p&gt;All sponsorship funds go directly to supporting Hopton Primary School. To discuss options, use the contact form below or email &lt;strong&gt;&lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;package-1-platinum-sponsor-800--1-package-available&#34;&gt;Package 1: Platinum sponsor (£800) – 1 package available&lt;/h3&gt;&#xA;&lt;p&gt;In return for your support as platinum sponsor, Hopton 10k would provide:&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Terms &amp; Conditions</title>
-				<link>https://hopton10k.run/terms/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/terms/</guid>
-				<description>&lt;h1 id=&#34;terms--conditions&#34;&gt;Terms &amp;amp; Conditions&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Last updated: May 2026&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;These terms and conditions apply to all participants, spectators, and volunteers at the Hopton 10k.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-organisers&#34;&gt;The Organisers&lt;/h2&gt;&#xA;&lt;p&gt;The Hopton 10k is organised by a volunteer committee based in Hopton, Mirfield, West Yorkshire. All proceeds go to Hopton Primary School. The race is held under a &lt;a href=&#34;https://www.runbritain.com/Handlers/EventCertificate.ashx?id=7eb408c8595d&#34;&gt;UK Athletics Race Licence&lt;/a&gt; (No. 27783) and is subject to UK Athletics Rules of Competition.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;entry&#34;&gt;Entry&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Entry is via &lt;a href=&#34;https://racebest.com/races/3rtkr&#34;&gt;RaceBest&lt;/a&gt;. By entering, you agree to these terms and conditions and confirm that you are physically fit to participate.&lt;/li&gt;&#xA;&lt;li&gt;You must be &lt;strong&gt;15 years of age or older&lt;/strong&gt; on race day to enter.&lt;/li&gt;&#xA;&lt;li&gt;Entries close at midday on the Saturday before the race. No entries are accepted on race day.&lt;/li&gt;&#xA;&lt;li&gt;Entry fees are non-refundable except at the sole discretion of the organisers. Contact &lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt; at least 24 hours before race day to request a transfer or refund. Refunds are subject to a £2.50 administration charge.&lt;/li&gt;&#xA;&lt;li&gt;Race numbers are non-transferable. You must not give, sell, or lend your number to another person without prior agreement from the organisers.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;race-rules&#34;&gt;Race Rules&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;All participants must follow the instructions of race marshals and officials at all times.&lt;/li&gt;&#xA;&lt;li&gt;The race must be completed within the &lt;strong&gt;90-minute cut-off&lt;/strong&gt; (by 11:30am). Marshals will begin to stand down after this time, and runners still on the course do so at their own risk.&lt;/li&gt;&#xA;&lt;li&gt;Headphones are permitted but strongly discouraged on trail sections for your own safety. You must be able to hear marshals&amp;rsquo; instructions.&lt;/li&gt;&#xA;&lt;li&gt;Dogs (other than medical assistance dogs), buggies, and wheeled vehicles are not permitted on the course, in accordance with UK Athletics rules.&lt;/li&gt;&#xA;&lt;li&gt;The organisers reserve the right to refuse or withdraw any entry without giving a reason.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;health--safety&#34;&gt;Health &amp;amp; Safety&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;You enter and participate at your own risk. The organisers, sponsors, and volunteers accept no responsibility for any injury, illness, or loss sustained during the event, except where caused by negligence on their part.&lt;/li&gt;&#xA;&lt;li&gt;The race is covered by public liability insurance through UK Athletics.&lt;/li&gt;&#xA;&lt;li&gt;You should not participate if you are unwell, injured, or if a medical professional has advised against strenuous exercise.&lt;/li&gt;&#xA;&lt;li&gt;The course includes uneven terrain, woodland trails, stiles, and public roads. You are responsible for your own safety and for wearing appropriate footwear (trail shoes are recommended).&lt;/li&gt;&#xA;&lt;li&gt;First aid provision is available on race day. By entering, you consent to receiving medical treatment from event medical staff if required.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;course--event-changes&#34;&gt;Course &amp;amp; Event Changes&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The organisers reserve the right to alter the course, start time, or event format for safety or operational reasons.&lt;/li&gt;&#xA;&lt;li&gt;In the event of cancellation due to circumstances beyond the organisers&amp;rsquo; control (severe weather, public health restrictions, etc.), the organisers will endeavour to offer deferred entry to a future event but are not obliged to issue refunds.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;intellectual-property&#34;&gt;Intellectual Property&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;By entering, you grant the organisers permission to use your name, likeness, photographs, and video footage taken during the event for promotional purposes, including on the Hopton 10k website, social media channels, and printed materials. See our &lt;a href=&#34;https://hopton10k.run/privacy/&#34;&gt;Privacy Policy&lt;/a&gt; for more details.&lt;/li&gt;&#xA;&lt;li&gt;Race results (name, finish time, position, running club) will be published on the Hopton 10k website and via RaceBest.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;These terms are governed by the laws of England and Wales.&lt;/li&gt;&#xA;&lt;li&gt;The organisers reserve the right to update these terms at any time. The latest version will always be available on this page.&lt;/li&gt;&#xA;&lt;li&gt;If you have any questions about these terms, please contact us at &lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-			</item>
-			<item>
-				<title>Volunteer with Us</title>
-				<link>https://hopton10k.run/volunteers/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://hopton10k.run/volunteers/</guid>
-				<description>&lt;h1 id=&#34;be-part-of-the-team&#34;&gt;Be Part of the Team&lt;/h1&gt;&#xA;&lt;p&gt;The Hopton 10k wouldn&amp;rsquo;t happen without our amazing volunteers. We need around &lt;strong&gt;40 people&lt;/strong&gt; to run the race safely, and we&amp;rsquo;re proud to have the friendliest marshals and helpers around.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s in it for you?&lt;/strong&gt; A free T-shirt, goody bag, plenty of tea and coffee, and the satisfaction of cheering runners home. It&amp;rsquo;s a great morning out!&lt;/p&gt;&#xA;&lt;p&gt;Interested? Email us at &lt;strong&gt;&lt;a href=&#34;mailto:info@hopton10k.run&#34;&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt; or fill in the contact form at the bottom of this page.&lt;/p&gt;</description>
-			</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hopton 10k - A multi-terrain road and trail race in Hopton, West Yorkshire on Hopton 10k road and trail running race, Mirfield, West Yorkshire</title><link>https://hopton10k.run/</link><description>Recent content in Hopton 10k - A multi-terrain road and trail race in Hopton, West Yorkshire on Hopton 10k road and trail running race, Mirfield, West Yorkshire</description><generator>Hugo</generator><language>en-gb</language><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://hopton10k.run/index.xml" rel="self" type="application/rss+xml"/><item><title>Marshal Point 1 - Chadwick Lane</title><link>https://hopton10k.run/m1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m1/</guid><description/></item><item><title>Marshal Point 2 - Flowerpot junction</title><link>https://hopton10k.run/m2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m2/</guid><description/></item><item><title>Marshal Point 3 - Granny Lane</title><link>https://hopton10k.run/m3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m3/</guid><description/></item><item><title>Marshal Point 4 - Hagg Lane Junction</title><link>https://hopton10k.run/m4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m4/</guid><description/></item><item><title>Marshal Point 5 - Hagg Lane / Boathouse</title><link>https://hopton10k.run/m5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m5/</guid><description/></item><item><title>Marshal Point 6 - Hagg Woods Crossroads</title><link>https://hopton10k.run/m6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m6/</guid><description/></item><item><title>Marshal Point 7 - Golf course Bottom</title><link>https://hopton10k.run/m7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m7/</guid><description/></item><item><title>Marshal Point 8 - Golf course Top</title><link>https://hopton10k.run/m8/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m8/</guid><description>&lt;p&gt;&lt;a href="https://goo.gl/maps/4YtAR3n756Ga5p6DA"&gt;https://goo.gl/maps/4YtAR3n756Ga5p6DA&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Marshal Point 9 - Sands Lane</title><link>https://hopton10k.run/m9/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m9/</guid><description/></item><item><title>Marshal Point 10 - Sands Lane, Left to Lady</title><link>https://hopton10k.run/m10/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m10/</guid><description/></item><item><title>Marshal Point 11 - Lady Woods bottom</title><link>https://hopton10k.run/m11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m11/</guid><description/></item><item><title>Marshal Point 12 - Lady Woods go straight</title><link>https://hopton10k.run/m12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m12/</guid><description/></item><item><title>Marshal Point 13 - Exit via stile</title><link>https://hopton10k.run/m13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m13/</guid><description/></item><item><title>Marshal Point 14 - Ex-Paradise Farm</title><link>https://hopton10k.run/m14/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m14/</guid><description/></item><item><title>Marshal Point 15 - Ouzelwell Water</title><link>https://hopton10k.run/m15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m15/</guid><description/></item><item><title>Marshal Point 16 - Ouzelwell Farm</title><link>https://hopton10k.run/m16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m16/</guid><description/></item><item><title>Marshal Point 17 - Ouzelwell Top</title><link>https://hopton10k.run/m17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m17/</guid><description/></item><item><title>Marshal Point 18 - The Bog</title><link>https://hopton10k.run/m18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m18/</guid><description/></item><item><title>Marshal Point 19 - Don't go down there!</title><link>https://hopton10k.run/m19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m19/</guid><description/></item><item><title>Marshal Point 20 - Yes, DO go down there</title><link>https://hopton10k.run/m20/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/m20/</guid><description/></item><item><title>Planning</title><link>https://hopton10k.run/blog/2019/07/08/planning/</link><pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate><guid>https://hopton10k.run/blog/2019/07/08/planning/</guid><description>Plans are coming along well, all systems go.</description></item><item><title>Walking the route</title><link>https://hopton10k.run/blog/2019/07/07/recce/</link><pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate><guid>https://hopton10k.run/blog/2019/07/07/recce/</guid><description>I carried out a recce of the route with the family today. It showed me that this route is both great fun, but challenging in places&amp;hellip;</description></item><item><title>Volunteers needed</title><link>https://hopton10k.run/blog/2019/06/24/become-a-volunteer/</link><pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate><guid>https://hopton10k.run/blog/2019/06/24/become-a-volunteer/</guid><description>&lt;h2 id="become-a-volunteer"&gt;Become a volunteer&lt;/h2&gt;
+&lt;p&gt;Love getting up early?&lt;/p&gt;</description></item><item><title>Contact Us</title><link>https://hopton10k.run/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/contact/</guid><description>&lt;h1 id="get-in-touch"&gt;Get in Touch&lt;/h1&gt;
+&lt;p&gt;Have a question about the Hopton 10k? We&amp;rsquo;d love to hear from you.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="before-you-contact-us"&gt;Before You Contact Us&lt;/h2&gt;
+&lt;p&gt;You might find your answer in our:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://hopton10k.run/faq/"&gt;FAQ page&lt;/a&gt;&lt;/strong&gt; - questions about entering, eligibility, and what&amp;rsquo;s included&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://hopton10k.run/raceday/"&gt;Race Day page&lt;/a&gt;&lt;/strong&gt; - parking, registration, route, and logistics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="how-to-reach-us"&gt;How to Reach Us&lt;/h2&gt;
+&lt;h3 id="email"&gt;Email&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We aim to respond within 48 hours. During race week, we may be a little slower!&lt;/p&gt;
+&lt;h3 id="social-media"&gt;Social Media&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://facebook.com/hopton10k"&gt;Facebook&lt;/a&gt; - @hopton10k&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://twitter.com/hopton10k"&gt;Twitter&lt;/a&gt; - @hopton10k&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="common-enquiries"&gt;Common Enquiries&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Entry transfers or refunds:&lt;/strong&gt; Contact us at least 24 hours before race day and we&amp;rsquo;ll do our best to help.&lt;/p&gt;</description></item><item><title>Donate</title><link>https://hopton10k.run/donate/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/donate/</guid><description>&lt;script&gt;
+ window.location = 'https://www.justgiving.com/crowdfunding/hopton10k';
+&lt;/script&gt;
+&lt;h3 id="make-a-donation"&gt;Make a donation&lt;/h3&gt;
+&lt;p&gt;To support our school and all the parents and teachers who are taking part in the Hopton 10k, please visit our &lt;a href="https://www.justgiving.com/crowdfunding/hopton10k"&gt;Just Giving page&lt;/a&gt; to donate. Your support is greatly appreciated.&lt;/p&gt;
+&lt;h2 id="donate-now"&gt;&lt;a href="https://www.justgiving.com/crowdfunding/hopton10k"&gt;Donate Now&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>Frequently Asked Questions</title><link>https://hopton10k.run/faq/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/faq/</guid><description>&lt;p&gt;Got questions about entering the Hopton 10k? Find answers below. For race day specific information (parking, check-in, route details), see our &lt;a href="https://hopton10k.run/raceday/"&gt;Race Day&lt;/a&gt; page.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="about-the-race"&gt;About the Race&lt;/h2&gt;
+&lt;h3 id="when-is-the-race"&gt;When is the race?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sunday 27th September 2026 at 10am&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Hopton 10k takes place on the first Sunday in October (or late September) every year.&lt;/p&gt;
+&lt;h3 id="where-does-the-race-start"&gt;Where does the race start?&lt;/h3&gt;
+&lt;p&gt;The race starts and finishes at &lt;a href="https://www.google.com/maps/place/Hopton&amp;#43;Primary&amp;#43;School/@53.6721243,-1.6999666,15z"&gt;Hopton Primary School&lt;/a&gt;, Woodend Road, Mirfield, WF14 8PR. From there, the route heads through Lower Hopton before entering the beautiful woodland trails.&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://hopton10k.run/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/privacy/</guid><description>&lt;h1 id="privacy-policy"&gt;Privacy Policy&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Last updated: May 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The Hopton 10k is organised by a volunteer committee in Hopton, Mirfield, West Yorkshire. We are committed to protecting the privacy of everyone who enters the race, visits our website, or contacts us. This policy explains what information we collect, how we use it, and your rights.&lt;/p&gt;
+&lt;p&gt;For any privacy-related queries, contact us at &lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="what-information-we-collect"&gt;What Information We Collect&lt;/h2&gt;
+&lt;h3 id="race-entries-via-racebest"&gt;Race entries (via RaceBest)&lt;/h3&gt;
+&lt;p&gt;When you enter the race through &lt;a href="https://racebest.com"&gt;RaceBest&lt;/a&gt;, they collect personal information on our behalf, which may include:&lt;/p&gt;</description></item><item><title>Race Day Information</title><link>https://hopton10k.run/raceday/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/raceday/</guid><description>&lt;p&gt;Everything you need to know to make your race day run smoothly. For general questions about entering, see our &lt;a href="https://hopton10k.run/faq/"&gt;FAQ page&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="key-times"&gt;Key Times&lt;/h2&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;th&gt;Activity&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;8:45am&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Registration opens&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;9:50am&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Registration closes&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;10:00am&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Race starts&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;11:30am&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;Course cut-off (marshals pack up)&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="getting-there"&gt;Getting There&lt;/h2&gt;
+&lt;h3 id="location"&gt;Location&lt;/h3&gt;
+&lt;p&gt;The race starts and finishes at &lt;strong&gt;Hopton Primary School&lt;/strong&gt;, Woodend Road, Mirfield, WF14 8PR.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important:&lt;/strong&gt; Enter the school grounds through the &lt;strong&gt;playground gate on Chadwick Lane&lt;/strong&gt;. The main reception and front gates will not be open.&lt;/p&gt;</description></item><item><title>Race Photos</title><link>https://hopton10k.run/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/photos/</guid><description>&lt;style&gt;
+.photo-thumb {
+ width: 100%;
+ height: 200px;
+ object-fit: cover;
+ object-position: 50% 25%;
+ border-radius: 4px;
+}
+.photo-thumb.pos-third {
+ object-position: 50% 33%;
+}
+.photo-thumb.pos-top {
+ object-position: top;
+}
+@media (max-width: 767px) {
+ .photo-thumb.pos-third {
+ object-position: top;
+ }
+}
+&lt;/style&gt;
+&lt;h1 id="hopton-10k-photos"&gt;Hopton 10k Photos&lt;/h1&gt;
+&lt;p&gt;Relive the action from past races! Browse our photo galleries from each year of the Hopton 10k.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2025"&gt;2025&lt;/h2&gt;
+&lt;div class="row" style="margin-bottom: 30px;"&gt;
+&lt;div class="col-md-4" style="margin-bottom: 20px;"&gt;
+&lt;img src="https://hopton10k.run/images/photos/2025.png" alt="Hopton 10k 2025" class="photo-thumb pos-top"&gt;
+&lt;/div&gt;
+&lt;div class="col-md-8"&gt;
+&lt;p&gt;Photos from the 2025 race.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="https://photos.app.goo.gl/H5iyxcLJxiDTxgMJ9" class="btn btn-template-primary" target="_blank"&gt;&lt;i class="fa fa-camera"&gt;&lt;/i&gt; View Album&lt;/a&gt;
+&lt;/p&gt;</description></item><item><title>Race Results</title><link>https://hopton10k.run/results/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/results/</guid><description>&lt;h1 id="hopton-10k-results"&gt;Hopton 10k Results&lt;/h1&gt;
+&lt;p&gt;Since our first race in 2019, the Hopton 10k has welcomed hundreds of runners to tackle our challenging course. Below you&amp;rsquo;ll find the winners from each year along with links to the full results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Looking for your time?&lt;/strong&gt; Full results are published on &lt;a href="https://racebest.com/results/"&gt;RaceBest&lt;/a&gt; shortly after each race finishes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="2025"&gt;2025&lt;/h2&gt;
+ &lt;div class="row"&gt;
+&lt;div class="col-md-6"&gt;
+&lt;h4&gt;&lt;i class="fa fa-male"&gt;&lt;/i&gt; Male Winner&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Adam Thompson&lt;/strong&gt; (Stockport Harriers &amp; AC)&lt;br&gt;&lt;span class="text-muted"&gt;40:38&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="col-md-6"&gt;
+&lt;h4&gt;&lt;i class="fa fa-female"&gt;&lt;/i&gt; Female Winner&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;Ciara Ellis&lt;/strong&gt;&lt;br&gt;&lt;span class="text-muted"&gt;47:14&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a href="https://racebest.com/results/yxy3t" class="btn btn-template-main"&gt;View full 2025 results&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Sponsorship Opportunities</title><link>https://hopton10k.run/sponsorship/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/sponsorship/</guid><description>&lt;h1 id="partner-with-the-hopton-10k"&gt;Partner with the Hopton 10k&lt;/h1&gt;
+&lt;p&gt;Looking for a unique opportunity to connect with hundreds of active, community-minded people in West Yorkshire? The Hopton 10k offers excellent visibility for local and national businesses alike.&lt;/p&gt;
+&lt;p&gt;All sponsorship funds go directly to supporting Hopton Primary School. To discuss options, use the contact form below or email &lt;strong&gt;&lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id="package-1-platinum-sponsor-800--1-package-available"&gt;Package 1: Platinum sponsor (£800) – 1 package available&lt;/h3&gt;
+&lt;p&gt;In return for your support as platinum sponsor, Hopton 10k would provide:&lt;/p&gt;</description></item><item><title>Terms &amp; Conditions</title><link>https://hopton10k.run/terms/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/terms/</guid><description>&lt;h1 id="terms--conditions"&gt;Terms &amp;amp; Conditions&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Last updated: May 2026&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;These terms and conditions apply to all participants, spectators, and volunteers at the Hopton 10k.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="the-organisers"&gt;The Organisers&lt;/h2&gt;
+&lt;p&gt;The Hopton 10k is organised by a volunteer committee based in Hopton, Mirfield, West Yorkshire. All proceeds go to Hopton Primary School. The race is held under a &lt;a href="https://www.runbritain.com/Handlers/EventCertificate.ashx?id=7eb408c8595d"&gt;UK Athletics Race Licence&lt;/a&gt; (No. 27783) and is subject to UK Athletics Rules of Competition.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="entry"&gt;Entry&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Entry is via &lt;a href="https://racebest.com/races/3rtkr"&gt;RaceBest&lt;/a&gt;. By entering, you agree to these terms and conditions and confirm that you are physically fit to participate.&lt;/li&gt;
+&lt;li&gt;You must be &lt;strong&gt;15 years of age or older&lt;/strong&gt; on race day to enter.&lt;/li&gt;
+&lt;li&gt;Entries close at midday on the Saturday before the race. No entries are accepted on race day.&lt;/li&gt;
+&lt;li&gt;Entry fees are non-refundable except at the sole discretion of the organisers. Contact &lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt; at least 24 hours before race day to request a transfer or refund. Refunds are subject to a £2.50 administration charge.&lt;/li&gt;
+&lt;li&gt;Race numbers are non-transferable. You must not give, sell, or lend your number to another person without prior agreement from the organisers.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="race-rules"&gt;Race Rules&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;All participants must follow the instructions of race marshals and officials at all times.&lt;/li&gt;
+&lt;li&gt;The race must be completed within the &lt;strong&gt;90-minute cut-off&lt;/strong&gt; (by 11:30am). Marshals will begin to stand down after this time, and runners still on the course do so at their own risk.&lt;/li&gt;
+&lt;li&gt;Headphones are permitted but strongly discouraged on trail sections for your own safety. You must be able to hear marshals&amp;rsquo; instructions.&lt;/li&gt;
+&lt;li&gt;Dogs (other than medical assistance dogs), buggies, and wheeled vehicles are not permitted on the course, in accordance with UK Athletics rules.&lt;/li&gt;
+&lt;li&gt;The organisers reserve the right to refuse or withdraw any entry without giving a reason.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="health--safety"&gt;Health &amp;amp; Safety&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;You enter and participate at your own risk. The organisers, sponsors, and volunteers accept no responsibility for any injury, illness, or loss sustained during the event, except where caused by negligence on their part.&lt;/li&gt;
+&lt;li&gt;The race is covered by public liability insurance through UK Athletics.&lt;/li&gt;
+&lt;li&gt;You should not participate if you are unwell, injured, or if a medical professional has advised against strenuous exercise.&lt;/li&gt;
+&lt;li&gt;The course includes uneven terrain, woodland trails, stiles, and public roads. You are responsible for your own safety and for wearing appropriate footwear (trail shoes are recommended).&lt;/li&gt;
+&lt;li&gt;First aid provision is available on race day. By entering, you consent to receiving medical treatment from event medical staff if required.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="course--event-changes"&gt;Course &amp;amp; Event Changes&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The organisers reserve the right to alter the course, start time, or event format for safety or operational reasons.&lt;/li&gt;
+&lt;li&gt;In the event of cancellation due to circumstances beyond the organisers&amp;rsquo; control (severe weather, public health restrictions, etc.), the organisers will endeavour to offer deferred entry to a future event but are not obliged to issue refunds.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="intellectual-property"&gt;Intellectual Property&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;By entering, you grant the organisers permission to use your name, likeness, photographs, and video footage taken during the event for promotional purposes, including on the Hopton 10k website, social media channels, and printed materials. See our &lt;a href="https://hopton10k.run/privacy/"&gt;Privacy Policy&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;li&gt;Race results (name, finish time, position, running club) will be published on the Hopton 10k website and via RaceBest.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id="general"&gt;General&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;These terms are governed by the laws of England and Wales.&lt;/li&gt;
+&lt;li&gt;The organisers reserve the right to update these terms at any time. The latest version will always be available on this page.&lt;/li&gt;
+&lt;li&gt;If you have any questions about these terms, please contact us at &lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Volunteer with Us</title><link>https://hopton10k.run/volunteers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hopton10k.run/volunteers/</guid><description>&lt;h1 id="be-part-of-the-team"&gt;Be Part of the Team&lt;/h1&gt;
+&lt;p&gt;The Hopton 10k wouldn&amp;rsquo;t happen without our amazing volunteers. We need around &lt;strong&gt;40 people&lt;/strong&gt; to run the race safely, and we&amp;rsquo;re proud to have the friendliest marshals and helpers around.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What&amp;rsquo;s in it for you?&lt;/strong&gt; A free T-shirt, goody bag, plenty of tea and coffee, and the satisfaction of cheering runners home. It&amp;rsquo;s a great morning out!&lt;/p&gt;
+&lt;p&gt;Interested? Email us at &lt;strong&gt;&lt;a href="mailto:info@hopton10k.run"&gt;info@hopton10k.run&lt;/a&gt;&lt;/strong&gt; or fill in the contact form at the bottom of this page.&lt;/p&gt;</description></item></channel></rss>
