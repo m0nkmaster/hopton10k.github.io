@@ -126,13 +126,36 @@
     }
 
     // ========================================
+    // Homepage section visibility (GA4)
+    // ========================================
+    function initHomepageSectionTracking() {
+        const sections = document.querySelectorAll('[data-analytics-section]');
+        if (!sections.length || typeof window.gtag !== 'function') return;
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+
+                window.gtag('event', 'homepage_section_view', {
+                    section_name: entry.target.dataset.analyticsSection
+                });
+                observer.unobserve(entry.target);
+            });
+        }, {
+            threshold: 0.5
+        });
+
+        sections.forEach(section => observer.observe(section));
+    }
+
+    // ========================================
     // Initialize
     // ========================================
     document.addEventListener('DOMContentLoaded', function() {
         initCountdown();
         initScrollAnimations();
         initSmoothScroll();
+        initHomepageSectionTracking();
     });
 
 })();
-
