@@ -1279,6 +1279,32 @@ p {
     color: var(--color-forest);
 }
 
+/* Volunteer assignment list */
+.volunteer-assignments h2 {
+    margin-top: var(--space-md);
+    margin-bottom: var(--space-xs);
+    font-size: clamp(1.6rem, 4vw, 2.25rem);
+}
+
+.volunteer-assignments__updated {
+    margin-bottom: var(--space-sm) !important;
+}
+
+.volunteer-assignments__list {
+    margin: 0 0 var(--space-md);
+    padding-left: 1.25rem;
+}
+
+.volunteer-assignments__list li {
+    margin-bottom: 0.35rem;
+    line-height: 1.35;
+}
+
+.volunteer-assignments__list a {
+    white-space: nowrap;
+    margin-left: 0.35rem;
+}
+
 .page-content table {
     width: 100%;
     border-collapse: collapse;
@@ -1338,4 +1364,3 @@ p {
 .mb-sm { margin-bottom: var(--space-sm); }
 .mb-md { margin-bottom: var(--space-md); }
 .mb-lg { margin-bottom: var(--space-lg); }
-
